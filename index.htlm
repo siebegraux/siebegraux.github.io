@@ -1,19 +1,10 @@
 # siebegraux.github.io
 project website
   
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-    <h3> De Borlees</h3>
-    <button type="button"><a href="knoppen.html" class="btn danger">naar knoppenpagina</a></button>
-     <button type="button"><a href="index.html" class="btn danger">naar hoofdpagina</a></button>
-    <picture>
- <img src=foto.jpg.jpg >
-</picture>
+<strong><h1 style="color:Tomato;">Siebe Graux</h1></strong>
 
+<p style="color:DodgerBlue;">SPORT</p>
 
-</body>
-</html>
+<p style="color:MediumSeaGreen;">atletiek</p>
+<a href="knoppen.html">knoppenpagina</a>
+<a href="index.html" class="knoppen.htlm" naar knoppenpagina</a>
