@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<htlm>
 # siebegraux.github.io
 project website
   
@@ -9,3 +10,4 @@ project website
 <p style="color:MediumSeaGreen;">atletiek</p>
 <a href="knoppen.html">knoppenpagina</a>
 <a href="index.html" class="knoppen.htlm" naar knoppenpagina</a>
+</htlm>
